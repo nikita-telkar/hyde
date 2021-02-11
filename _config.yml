@@ -5,10 +5,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Nikita Telkar
+description:      'PhD student by day, PhD student by night.'
+url:              https://drive.google.com/file/d/1_g2uZWVYm_fC_mOfhlWjVlvYtkvXg5kl/view?usp=sharing
 baseurl:          /hyde/
 
 author:
@@ -18,7 +17,6 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/nikita-telkar
