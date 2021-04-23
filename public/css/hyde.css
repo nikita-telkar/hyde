@@ -258,6 +258,16 @@ a.sidebar-nav-item:focus {
   color: #8b3058;
 }
 
+/* Custom green */
+.theme-base-1n .sidebar {
+  background-color: #81b214;
+}
+.theme-base-1n .content a,
+.theme-base-1n .related-posts li a:hover {
+  color: #81b214;
+}
+
+
 /* Mark highlight */
 
 mark {
